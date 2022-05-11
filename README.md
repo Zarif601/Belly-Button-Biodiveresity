@@ -22,4 +22,4 @@ There is also a dropdown menu with a demographic information panel. When a test 
 
 The dashboard presents belly button bacterial data successfully. Here is the link to the dashboard:
 
-[Bellybutton Dashboard](https://zarif601.github.io/Belly-Button-Biodiveresity/)
+[Belly Button Biodiversity Dashboard](https://zarif601.github.io/Belly-Button-Biodiveresity/)
