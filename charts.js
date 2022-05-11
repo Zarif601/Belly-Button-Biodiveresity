@@ -127,7 +127,7 @@ function buildCharts(sample) {
         xanchor: 'center',
         y: -0.325,
         yanchor: 'center',
-        text: 'Bubble graph showing all the bacterias in the belly button of a selected sample',
+        text: 'Bubble graph showing all the bacterias in the belly button of a selected test subject with the size of bubbles proportional to the number of samples',
         showarrow: false
        }]
     };
@@ -165,7 +165,7 @@ function buildCharts(sample) {
         xanchor: 'center',
         y: 0.25,
         yanchor: 'center',
-        text: 'Gauge showing the frequency of washing the belly button per weeks',
+        text: 'Gauge showing the frequency of washing the belly button per week',
         showarrow: false
        }]
     };
